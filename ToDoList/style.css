@@ -1,0 +1,11 @@
+body{
+    background-color: whitesmoke;
+}
+.login{
+    box-shadow:0 0 3px red;
+    border: 2px red solid;
+    outline: red;
+}
+a:hover{
+    text-shadow: 0 0 1px black;
+}
