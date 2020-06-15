@@ -9,8 +9,10 @@ body{
 a:hover{
     text-shadow: 0 0 1px black;
 }
-button{
-    box-shadow: 0 0 5px red;
-    outline: none;
-    border: red 2px solid;
+button:hover{
+    box-shadow: 0px 0px 5px red;
+    outline: red;
+}
+.box{
+    box-shadow: 0 0 4px gray;
 }
